@@ -1,11 +1,7 @@
 # RecruitmentTask1
-Zadanie rekrutacyjne na stanowisko Junior Front-End developer. Treść polecenia: https://github.com/Ideamotive/rekrutacja
+Recruitment task for the position of Junior Front-End developer. Using JavaScript (jQuery), CSS3, HTML5.
+https://github.com/Ideamotive/rekrutacja
 
-Wykorzystane technologie i języki programowania: JavaScript (jQuery), CSS3
+Making of the task taught me a good knowledge of CSS3 and HTML5, getting to know the jQuery library, independence in solving problems and learning new things that I need to do the job.
 
-Wykonanie zadania nauczyło mnie dobrej znajomości CSS3 i HTML5 (atrybut data), poznania dokładniej biblioteki jQuery, samodzielności w rozwiązywaniu problemów oraz uczenia się nowości,
-potrzebnych mi do wykonania zadania.
-
-Data powstania: 09.05.2018
-
-Czas pracy: 2 dni
+Working time: 2 days
